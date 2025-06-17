@@ -1,3 +1,5 @@
+add pollo.ai like landing page to wrap video tool 
+
 # AI Video Starter Kit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
